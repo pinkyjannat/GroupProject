@@ -1,0 +1,52 @@
+
+.red {
+  color: red;
+}
+.thick {
+  font-size:20px;
+}
+.green {
+  color:green;
+}
+body {
+  background-image: url("./aboutus_images/bakery_background.jpg");
+  
+  background-repeat: no-repeat;
+}
+
+  .header {
+    padding: 30px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+  }
+  
+  .right {
+    position: absolute;
+    right: 0px;
+    width: 750px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 65px;
+    padding-left: 10px;
+    font-size: x-large;
+
+  }
+  .left {
+    position: absolute;
+    left: 0px;
+    width: 400px;
+    padding: 10px;
+  }
+  
+
+.example1 {
+ text-align:  floating left;
+ color: black;
+ font-size: x-large;
+ padding: 10px;
+}
+
+
+
+
